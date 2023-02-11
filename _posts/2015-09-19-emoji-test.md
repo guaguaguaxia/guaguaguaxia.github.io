@@ -48,7 +48,7 @@ Love**is**bold
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](https://www.runoob.com/wp-content/uploads/2019/03/91542A7F-900B-4C1F-9FEA-BC418A0047E5.jpeg)
+    ![Tux, the Linux mascot](https://github.com/guaguaguaxia/StudyNotes/blob/master/MySQL/image/1.png)
 
 3. Close the file.
 
