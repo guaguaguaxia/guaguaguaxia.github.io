@@ -237,6 +237,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.4.0)
+    vercel-analytics(0.1.11)
 
 PLATFORMS
   ruby
