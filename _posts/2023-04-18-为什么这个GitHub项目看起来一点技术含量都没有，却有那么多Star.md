@@ -15,6 +15,7 @@ tags:
 
 ![image](https://raw.githubusercontent.com/guaguaguaxia/guaguaguaxia.github.io/master/_data/image/1.jpg)
 
+
 ### 技术本质 
 我们不得不承认的是，很多程序员的世界观很狭隘，喜欢用自己的技术视角去衡量万事万物，殊不知很多事情的本质不是技术，技术只是用来达成目的的手段罢了。  
 
