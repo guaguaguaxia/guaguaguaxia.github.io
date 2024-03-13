@@ -13,13 +13,13 @@ tags:
 我还记得多年前有个大V博主拉黑了所有给骂他的评论点赞的人，结果有大量粉丝误伤，后面有些粉丝说，点赞一些不好的言论，是想把这条评论顶上去让出口成脏的人被更多人
 看到，被更多人骂。从这个例子可以看出，其实用户点赞的出发点是丰富多样的，也许这就是微博现在长按点赞会弹出一个列表让你选择点赞趋向的理由吧。
 
-![image](https://raw.githubusercontent.com/guaguaguaxia/guaguaguaxia.github.io/master/_data/image/1.jpg)
+![image](https://cdn.jsdelivr.net/gh/guaguaguaxia/picx-images-hosting@master/1.2h822paovk.webp)
 
 
 ### 技术本质 
 我们不得不承认的是，很多程序员的世界观很狭隘，喜欢用自己的技术视角去衡量万事万物，殊不知很多事情的本质不是技术，技术只是用来达成目的的手段罢了。  
 
-![image](https://raw.githubusercontent.com/guaguaguaxia/guaguaguaxia.github.io/master/_data/image/2.png)
+![image](https://cdn.jsdelivr.net/gh/guaguaguaxia/picx-images-hosting@master/2.lvha2y99x.webp)
 
 前阵子我在推特看到这样一条推，翻译如下：  
 
